@@ -29,3 +29,5 @@ First pull for mongo image takes 71 seconds while next pull is complete in 19 se
     ...
     Status: Downloaded newer image for mongo:latest
     docker pull mongo  0.13s user 0.05s system 0% cpu 19.296 total
+
+https://github.com/docker/for-mac/issues/2537
